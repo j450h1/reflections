@@ -26,3 +26,10 @@ Branches would be helpful for different language versions, experimental vs produ
 ---------------------------------------------------------------------------------
 
 The diagrams show where the branches start and where the commits can and cannot reach.
+
+---------------------------------------------------------------------------------
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+---------------------------------------------------------------------------------
+
+The primary branch, usually master branch, is the main branch where all the commits from the child branch are combined. They will be shown in chronological order. 
+We represent it in the diagram the way that we do because we are showing what commits can and cannot be accessed by the merged branch and also to visualize the concept.
