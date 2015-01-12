@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------
+1. What happens when you initialize a repository? Why do you need to do it?
+---------------------------------------------------------------------------------
+
+Git starts to track the directory and recognizes the folder as repository. Git commands such as log and status will now work. You need to do it to let Git know where the commited files will be.
+
+---------------------------------------------------------------------------------
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+---------------------------------------------------------------------------------
+
+It is different because it caches the files that are ready to be commited to the repository. It allows you to specify individual files that you would like to commit to the repository instead of all files. It is an intermediary stage between the working directory and the final commited repository.
+
+
+
