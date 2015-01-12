@@ -15,3 +15,7 @@ It is different because it caches the files that are ready to be commited to the
 ---------------------------------------------------------------------------------
 
 You can use the staging area to track any changes and then you can see when you have made enough changes per one logical change. If you didn't have a staging area it would be hard to track what logical change you made.
+
+---------------------------------------------------------------------------------
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help? -------------------------------------------------------------------------------------
+Branches would be helpful for different language versions, experimental vs production builds, different localized versions, and different major add-ons.
