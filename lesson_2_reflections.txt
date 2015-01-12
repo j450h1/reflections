@@ -10,5 +10,8 @@ Git starts to track the directory and recognizes the folder as repository. Git c
 
 It is different because it caches the files that are ready to be commited to the repository. It allows you to specify individual files that you would like to commit to the repository instead of all files. It is an intermediary stage between the working directory and the final commited repository.
 
+---------------------------------------------------------------------------------
+3. How can you use the staging area to make sure you have one commit per logical change?
+---------------------------------------------------------------------------------
 
-
+You can use the staging area to track any changes and then you can see when you have made enough changes per one logical change. If you didn't have a staging area it would be hard to track what logical change you made.
