@@ -33,3 +33,11 @@ The diagrams show where the branches start and where the commits can and cannot 
 
 The primary branch, usually master branch, is the main branch where all the commits from the child branch are combined. They will be shown in chronological order. 
 We represent it in the diagram the way that we do because we are showing what commits can and cannot be accessed by the merged branch and also to visualize the concept.
+
+---------------------------------------------------------------------------------
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+---------------------------------------------------------------------------------
+
+One pro of Git's automatic merging is that it saves alot of time. Another pro is that the automatic merging highlights conflicts for you. 
+The con of Git's automatic merging is there may be a few cases where you don't want to automatically merge some things and would be better to discuss changes with
+the collaborators. In this scenario, it would be possible to create a piece of code that is more efficient then just adding the two pieces of code separately.	
