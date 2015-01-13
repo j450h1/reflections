@@ -31,3 +31,10 @@ compare with the newer versions.
 
 It would be harder to collaborate as you would have to communicate a lot more on any changes. It would be harder because you would have to make sure you don't 
 work on areas of code that a colleague is working on or make sure to communicate any changes.
+
+-----------------------------------------------------------------------------------------
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-----------------------------------------------------------------------------------------
+
+You would want to make changes in a separate branch rather than in master when you are working on someone elses repo as you don't want to update master directly. 
+The benefit of making changes directly in master is it reduces complexity, but the downside is that it allows people to introduce bugs into the main branch too easily.
