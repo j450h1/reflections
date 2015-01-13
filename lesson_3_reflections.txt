@@ -9,3 +9,12 @@ You would want to use a remote repository when your code is ready to go live or 
 -----------------------------------------------------------------------------------------
 
 You might want to pull changes manually because changes could have been introduced to the remote that you don't want implemented on your local branch.
+
+-----------------------------------------------------------------------------------------
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+-----------------------------------------------------------------------------------------
+
+Forks are clones of Github only repos to your remote repo on Github. Clones are copies of repos, whether remote or local. Branches are different versions or streams of your commits.
+
+You would use forks if you can't modify the original repo you are forking from and want to credit the original author. You would use clones if you want to clone remote repos to your local computer
+or vice versa. You would use a branch locally when you want to create different versions or different commit histories.
