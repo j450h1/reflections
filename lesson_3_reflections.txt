@@ -3,3 +3,9 @@
 -----------------------------------------------------------------------------------------
 
 You would want to use a remote repository when your code is ready to go live or you want other collaborators to have a look at it.
+
+-----------------------------------------------------------------------------------------
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+-----------------------------------------------------------------------------------------
+
+You might want to pull changes manually because changes could have been introduced to the remote that you don't want implemented on your local branch.
