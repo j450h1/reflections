@@ -25,3 +25,9 @@ or vice versa. You would use a branch locally when you want to create different 
 The benefit of having a copy of the last known state of the remote stored locally is so that you can see how the remote was before any changes made remotely and you can
 compare with the newer versions.
 
+-----------------------------------------------------------------------------------------
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+-----------------------------------------------------------------------------------------
+
+It would be harder to collaborate as you would have to communicate a lot more on any changes. It would be harder because you would have to make sure you don't 
+work on areas of code that a colleague is working on or make sure to communicate any changes.
